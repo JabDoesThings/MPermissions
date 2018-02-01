@@ -1,0 +1,10 @@
+main: jab.bukkit.mpermissions.PluginMPermissions
+name: MPermissions
+version: 1.0
+author: Jab
+# depend:
+description: Kastia Plug-in.
+commands:
+  mp:
+    description: "Root command for MPermissions"
+    permission: "mpermissions"

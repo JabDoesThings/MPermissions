@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="APL 2.0 Scope" pattern="src:jab.mongo..*" />
+</component>
